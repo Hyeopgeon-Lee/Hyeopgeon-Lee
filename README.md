@@ -1,6 +1,6 @@
 # 👨‍🏫 Hyeopgeon Lee | Professor of Big Data & Cloud Computing
 
-![Header](https://your-image-link.com/banner.png)
+
 
 ## 🚀 About Me
 🎓 **Professor at Korea Polytechnic of Seoul Gangseo Campus**  
