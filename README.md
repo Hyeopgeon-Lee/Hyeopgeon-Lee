@@ -45,9 +45,13 @@
 🔹 [**SpringBootBasic**](https://github.com/Hyeopgeon-Lee/SpringBootBasic) - Java 17 + MariaDB 기반 Spring Boot 실습  
 
 ### 📊 **Big Data & AI**
+🔹 [**modelForTF**](https://github.com/Hyeopgeon-Lee/modelForTF) - TensorFlow를 활용한 AI 모델 만들기
+🔹 [**SpringAIBasic**](https://github.com/Hyeopgeon-Lee/SpringAIBasic) - AI 모델을 활용한 Spring Boot로 구현  
 🔹 [**SpringNoSQL**](https://github.com/Hyeopgeon-Lee/SpringNoSQL) - NoSQL을 활용한 실습 프로젝트  
-🔹 [**SpringAIBasic**](https://github.com/Hyeopgeon-Lee/SpringAIBasic) - AI 모델을 Spring Boot로 구현  
-🔹 [**HadoopDataAnalysis**](https://github.com/Hyeopgeon-Lee/HadoopDataAnalysis) - Hadoop을 활용한 빅데이터 분석 실습  
+🔹 [**hadoopWebPRJ**](https://github.com/Hyeopgeon-Lee/hadoopWebPRJ) - Hadoop을 활용한 웹서비스 프로그래밍 
+🔹 [**mrProject**](https://github.com/Hyeopgeon-Lee/mrProject) - 맵리듀스를 활용한 빅데이터 분석 실습  
+🔹 [**R-PRJ**](https://github.com/Hyeopgeon-Lee/R-PRJ) - R 활용한 빅데이터 분석 실습  
+
 
 ---
 
