@@ -20,9 +20,9 @@
 - 🗃 **NoSQL Databases** (MongoDB, Redis)
 
 ### ⚙️ Backend & Programming
-- ☕ **Java & Spring Boot**
-- 🐍 **Python for AI & Data Science**
-- 📡 **RESTful API**
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> Java & Spring Boot  
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> Python for AI & Data Science  
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40"/> RESTful API  
 
 ### 🤖 AI & Machine Learning
 - 🧠 **Deep Learning & NLP**
