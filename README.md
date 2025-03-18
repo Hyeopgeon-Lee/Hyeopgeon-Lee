@@ -12,64 +12,65 @@
 ## 🛠️ Tech Stack & Expertise
 
 ### 📡 Cloud & DevOps
-☁️ **Cloud Native Development**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> Kubernetes  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> Docker  
+- ☁️ **Cloud Native Development**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> Kubernetes  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> Docker  
 
-🛠 **Infrastructure as Code**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg" width="40" height="40"/> ArgoCD  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" height="40"/> Helm  
+- 🛠 **Infrastructure as Code**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30"/> Terraform  
+  ● <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Argo-logo.png" width="30"/> ArgoCD  
+  ● <img src="https://helm.sh/img/helm.svg" width="30"/> Helm  
 
-🏗 **Microservices Architecture (MSA)**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> Spring Cloud  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> API Gateway  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/istio/istio-original.svg" width="40" height="40"/> Service Mesh  
+- 🏗 **Microservices Architecture (MSA)**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> Spring Cloud  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30"/> API Gateway  
+  ● <img src="https://istio.io/latest/img/logo.svg" width="30"/> Service Mesh (Istio)  
 
 ---
 
 ### 📊 Big Data & NoSQL
-🗄 **Big Data Processing**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40"/> Hadoop  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/> Kafka  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" width="40" height="40"/> Spark  
+- 🗄 **Big Data Processing**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="30"/> Hadoop  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30"/> Kafka  
+  ● <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="30"/> Spark  
 
-🗃 **NoSQL Databases**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> MongoDB  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/> Redis  
+- 🗃 **NoSQL Databases**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30"/> Redis  
 
 ---
 
 ### ⚙️ Backend & Programming
-☕ **Java & Spring Boot**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> Java  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> Spring Boot  
+- ☕ **Java & Spring Boot**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/> Spring Boot  
 
-🐍 **Python for AI & Data Science**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> Python  
+- 🐍 **Python for AI & Data Science**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python  
 
-📡 **RESTful API & Web Services**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/> Postman  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/> GraphQL  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" width="40" height="40"/> OpenAPI  
+- 📡 **RESTful API & Web Services**  
+  ● <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> Postman  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30"/> GraphQL  
+  ● <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/OpenAPI_Logo_Pantone.svg" width="30"/> OpenAPI  
 
 ---
 
 ### 🤖 AI & Machine Learning
-🧠 **Deep Learning & NLP**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> TensorFlow  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/> PyTorch  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> NumPy  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas  
+- 🧠 **Deep Learning & NLP**  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/> TensorFlow  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/> PyTorch  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/> NumPy  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> Pandas  
 
-🔍 **LLM (Large Language Models) & RAG**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" width="40" height="40"/> OpenAI GPT  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Hugging_Face_logo.svg" width="40" height="40"/> Hugging Face  
+- 🔍 **LLM (Large Language Models) & RAG**  
+  ● <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" width="30"/> OpenAI GPT  
+  ● <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Hugging_Face_logo.svg" width="30"/> Hugging Face  
 
-📈 **Data Visualization & Analytics**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/> Matplotlib  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/> Seaborn  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/> Tableau  
+- 📈 **Data Visualization & Analytics**  
+  ● <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="30"/> Matplotlib  
+  ● <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30"/> Seaborn  
+  ● <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30"/> Tableau  
+
 
 
 ---
