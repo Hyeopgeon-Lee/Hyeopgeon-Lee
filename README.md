@@ -11,8 +11,8 @@
 
 ## 🛠️ Tech Stack & Expertise
 ### 📡 Cloud & DevOps
-- ☁️ **Cloud Native Development** (Kubernetes, Docker, OpenShift)
-- 🛠️ **Infrastructure as Code** (Terraform, Helm, ArgoCD)
+- ☁️ **Cloud Native Development** (Kubernetes, Docker)
+- 🛠️ **Infrastructure as Code** (Helm, ArgoCD)
 - 🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)
 
 ### 📊 Big Data & NoSQL
