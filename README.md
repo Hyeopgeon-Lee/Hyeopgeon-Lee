@@ -45,12 +45,12 @@
 🔹 [**SpringBootBasic**](https://github.com/Hyeopgeon-Lee/SpringBootBasic) - Java 17 + MariaDB 기반 Spring Boot 실습  
 
 ### 📊 **Big Data & AI**
-🔹 [**modelForTF**](https://github.com/Hyeopgeon-Lee/modelForTF) - TensorFlow를 활용한 AI 모델 만들기
-🔹 [**SpringAIBasic**](https://github.com/Hyeopgeon-Lee/SpringAIBasic) - AI 모델을 활용한 Spring Boot로 구현  
+🔹 [**modelForTF**](https://github.com/Hyeopgeon-Lee/modelForTF) - TensorFlow를 활용한 AI 모델 만들기  
+🔹 [**SpringAIBasic**](https://github.com/Hyeopgeon-Lee/SpringAIBasic) - AI 모델을 활용한 Spring Boot 구현  
 🔹 [**SpringNoSQL**](https://github.com/Hyeopgeon-Lee/SpringNoSQL) - NoSQL을 활용한 실습 프로젝트  
-🔹 [**hadoopWebPRJ**](https://github.com/Hyeopgeon-Lee/hadoopWebPRJ) - Hadoop을 활용한 웹서비스 프로그래밍 
+🔹 [**hadoopWebPRJ**](https://github.com/Hyeopgeon-Lee/hadoopWebPRJ) - Hadoop을 활용한 웹서비스 프로그래밍  
 🔹 [**mrProject**](https://github.com/Hyeopgeon-Lee/mrProject) - 맵리듀스를 활용한 빅데이터 분석 실습  
-🔹 [**R-PRJ**](https://github.com/Hyeopgeon-Lee/R-PRJ) - R 활용한 빅데이터 분석 실습  
+🔹 [**R-PRJ**](https://github.com/Hyeopgeon-Lee/R-PRJ) - R을 활용한 빅데이터 분석 실습  
 
 
 ---
@@ -72,7 +72,7 @@
 
 ## 📧 Contact
 📩 **Email:** hglee67@kopo.ac.kr  
-📍 **Office:** Room 101, Korea Polytechnic of Seoul Gangseo Campus  
+📍 **Office:** Room 8302, Korea Polytechnic of Seoul Gangseo Campus  
 📞 **Phone:** +82-2-2186-5981  
 
 ---
