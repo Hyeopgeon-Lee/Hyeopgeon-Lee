@@ -12,26 +12,26 @@
 ## 🛠️ Tech Stack & Expertise
 
 ### 📡 Cloud & DevOps
-☁️ **Cloud Native Development** (Kubernetes, Docker)  
-🛠️ **Infrastructure as Code** (Helm, ArgoCD)  
-🔧 **CI/CD & Automation** (GitHub, Jenkins)  
-🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)  
+- ☁️ **Cloud Native Development** (Kubernetes, Docker)  
+- 🛠️ **Infrastructure as Code** (Helm, ArgoCD)  
+- 🔧 **CI/CD & Automation** (GitHub, Jenkins)  
+- 🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)  
 
 ### 📊 Big Data & NoSQL
-🗄 **Big Data Processing** (Hadoop, Spark, Kafka, Flink)  
-🗃 **NoSQL Databases** (MongoDB, Redis, Opensearch)  
+- 🗄 **Big Data Processing** (Hadoop, Spark, Kafka, Flink)  
+- 🗃 **NoSQL Databases** (MongoDB, Redis, Opensearch)  
 
 ### ⚙️ Backend & Programming
-☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Batch)  
-🐍 **Python for AI & Data Science** (FastAPI, Flask, PyTorch, TensorFlow)  
-🛠 **Functional & Reactive Programming** (WebFlux)  
-📡 **RESTful API** (OpenAPI)  
-🖥 **Serverless & Edge Computing** (WasmEdge)  
+- ☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Batch)  
+- 🐍 **Python for AI & Data Science** (FastAPI, Flask, PyTorch, TensorFlow)  
+- 🛠 **Functional & Reactive Programming** (WebFlux)  
+- 📡 **RESTful API** (OpenAPI)  
+- 🖥 **Serverless & Edge Computing** (WasmEdge)  
 
 ### 🤖 AI & Machine Learning
-🧠 **Deep Learning & NLP** (Transformers, Hugging Face)  
-🔍 **LLM (Large Language Models) & RAG (Retrieval-Augmented Generation)**  
-📈 **Data Visualization & Analytics** (Matplotlib, Seaborn)  
+- 🧠 **Deep Learning & NLP** (Transformers, Hugging Face)  
+- 🔍 **LLM (Large Language Models) & RAG (Retrieval-Augmented Generation)**  
+- 📈 **Data Visualization & Analytics** (Matplotlib, Seaborn)  
 
 ---
 
