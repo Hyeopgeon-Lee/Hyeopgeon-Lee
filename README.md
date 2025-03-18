@@ -18,11 +18,11 @@
 - 🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)  
 
 ### 📊 Big Data & NoSQL
-- 🗄 **Big Data Processing** (Hadoop, Spark, Kafka, Flink)  
+- 🗄 **Big Data Processing** (Hadoop, Spark, Kafka)  
 - 🗃 **NoSQL Databases** (MongoDB, Redis, Opensearch)  
 
 ### ⚙️ Backend & Programming
-- ☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Batch)  
+- ☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Session, JWT)  
 - 🐍 **Python for AI & Data Science** (FastAPI, Flask, PyTorch, TensorFlow)  
 - 🛠 **Functional & Reactive Programming** (WebFlux)  
 - 📡 **RESTful API** (OpenAPI)  
