@@ -12,31 +12,26 @@
 ## 🛠️ Tech Stack & Expertise
 
 ### 📡 Cloud & DevOps
-☁️ **Cloud Native Development** (Kubernetes, Docker, OpenShift)  
-🛠️ **Infrastructure as Code** (Helm, ArgoCD, Terraform)  
-🔧 **CI/CD & Automation** (GitHub Actions, Jenkins, Tekton)  
+☁️ **Cloud Native Development** (Kubernetes, Docker)  
+🛠️ **Infrastructure as Code** (Helm, ArgoCD)  
+🔧 **CI/CD & Automation** (GitHub, Jenkins)  
 🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)  
-🛡 **Cloud Security & Observability** (Prometheus, Grafana, Istio)  
 
 ### 📊 Big Data & NoSQL
 🗄 **Big Data Processing** (Hadoop, Spark, Kafka, Flink)  
-🗃 **NoSQL Databases** (MongoDB, Redis, Cassandra, Elasticsearch)  
-📂 **Data Lakes & Warehouses** (Delta Lake, AWS Redshift, Snowflake)  
-⚡ **Streaming Data Processing** (Apache Flink, Apache Pulsar, Kinesis)  
+🗃 **NoSQL Databases** (MongoDB, Redis, Opensearch)  
 
 ### ⚙️ Backend & Programming
 ☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Batch)  
 🐍 **Python for AI & Data Science** (FastAPI, Flask, PyTorch, TensorFlow)  
-🛠 **Functional & Reactive Programming** (RxJava, Project Reactor, Scala)  
-📡 **RESTful API & gRPC** (GraphQL, OpenAPI, Protocol Buffers)  
-🖥 **Serverless & Edge Computing** (AWS Lambda, WasmEdge, Cloudflare Workers)  
+🛠 **Functional & Reactive Programming** (WebFlux)  
+📡 **RESTful API** (OpenAPI)  
+🖥 **Serverless & Edge Computing** (WasmEdge)  
 
 ### 🤖 AI & Machine Learning
-🧠 **Deep Learning & NLP** (Transformers, Hugging Face, TensorRT)  
+🧠 **Deep Learning & NLP** (Transformers, Hugging Face)  
 🔍 **LLM (Large Language Models) & RAG (Retrieval-Augmented Generation)**  
-📈 **Data Visualization & Analytics** (Matplotlib, Seaborn, Tableau, Power BI)  
-🛡 **AI Model Deployment** (ONNX, MLflow, Kubeflow)  
-🚀 **MLOps & AI Pipeline** (Airflow, DVC, Weights & Biases)  
+📈 **Data Visualization & Analytics** (Matplotlib, Seaborn)  
 
 ---
 
