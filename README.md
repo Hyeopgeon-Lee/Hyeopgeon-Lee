@@ -64,13 +64,6 @@
 
 ---
 
-## 🌎 SNS 및 온라인 활동  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hyeopgeon.lee)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hyeopgeon)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeopgeon-lee)  
-
----
-
 ## 📧 연락처  
 📩 **이메일:** hglee67@kopo.ac.kr  
 📍 **사무실:** 한국폴리텍대학 서울강서캠퍼스 8302호  
