@@ -1,85 +1,81 @@
-# 👨‍🏫 Hyeopgeon Lee | Professor of Big Data & Cloud Computing
+# 👨‍🏫 이협건 | 빅데이터과 교수  
 
-
-
-## 🚀 About Me
-🎓 **Professor at Korea Polytechnic of Seoul Gangseo Campus**  
-💡 Teaching **Cloud Native Application, MSA, Big Data, AI**  
-🔥 Passionate about **Education, Open Source, and Cloud Computing**  
+## 🚀 소개  
+🎓 **한국폴리텍대학 서울강서캠퍼스 교수**  
+💡 **클라우드 네이티브 애플리케이션, MSA, 빅데이터, 인공지능** 교육  
+🔥 **교육, 오픈소스, 클라우드 컴퓨팅**에 대한 열정  
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ 기술 스택 및 전문 분야
 
-### 📡 Cloud & DevOps
-- ☁️ **Cloud Native Development** (Kubernetes, Docker)  
-- 🛠️ **Infrastructure as Code** (Helm, ArgoCD)  
-- 🔧 **CI/CD & Automation** (GitHub, Jenkins)  
-- 🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)  
+### 📡 클라우드 & 데브옵스  
+- ☁️ **클라우드 네이티브 개발** (Kubernetes, Docker)  
+- 🛠️ **코드 기반 인프라 관리** (Helm, ArgoCD)  
+- 🔧 **CI/CD 및 자동화** (GitHub, Jenkins)  
+- 🏗 **마이크로서비스 아키텍처(MSA)** (Spring Cloud, API Gateway, Service Mesh)  
 
-### 📊 Big Data & NoSQL
-- 🗄 **Big Data Processing** (Hadoop, Spark, Kafka)  
-- 🗃 **NoSQL Databases** (MongoDB, Redis, Opensearch)  
+### 📊 빅데이터 & NoSQL  
+- 🗄 **빅데이터 처리** (Hadoop, Spark, Kafka)  
+- 🗃 **NoSQL 데이터베이스** (MongoDB, Redis, OpenSearch)  
 
-### ⚙️ Backend & Programming
+### ⚙️ 백엔드 & 프로그래밍  
 - ☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Session, JWT)  
-- 🐍 **Python for AI & Data Science** (FastAPI, Flask, PyTorch, TensorFlow)  
-- 🛠 **Functional & Reactive Programming** (WebFlux)  
-- 📡 **RESTful API** (OpenAPI)  
-- 🖥 **Serverless & Edge Computing** (WasmEdge)  
+- 🐍 **AI 및 데이터 분석을 위한 Python** (FastAPI, Flask, PyTorch, TensorFlow)  
+- 🛠 **함수형 및 리액티브 프로그래밍** (WebFlux)  
+- 📡 **RESTful API 설계** (OpenAPI)  
+- 🖥 **서버리스 및 엣지 컴퓨팅** (WasmEdge)  
 
-### 🤖 AI & Machine Learning
-- 🧠 **Deep Learning & NLP** (Transformers, Hugging Face)  
-- 🔍 **LLM (Large Language Models) & RAG (Retrieval-Augmented Generation)**  
-- 📈 **Data Visualization & Analytics** (Matplotlib, Seaborn)  
+### 🤖 인공지능 & 머신러닝  
+- 🧠 **딥러닝 및 자연어 처리(NLP)** (Transformers, Hugging Face)  
+- 🔍 **대형 언어 모델(LLM) 및 검색 기반 생성(RAG)**  
+- 📈 **데이터 시각화 및 분석** (Matplotlib, Seaborn)  
 
 ---
 
-
-## 📈 GitHub Stats & Activity
-![Hyeopgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeopgeon-Lee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeopgeon-Lee&layout=compact&theme=radical)
+## 📈 GitHub 활동  
+![Hyeopgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeopgeon-Lee&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeopgeon-Lee&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hyeopgeon-Lee&theme=radical)
 
 ---
 
-## 📌 Featured Projects
-### 🏗️ **Cloud & MSA Projects**
-🔹 [**SpringJpaJdk17**](https://github.com/Hyeopgeon-Lee/SpringJpaJdk17) - Java 17 기반 JPA 실습  
+## 📌 주요 프로젝트  
+### 🏗️ **클라우드 & MSA 관련**  
+🔹 [**SpringJpaJdk17**](https://github.com/Hyeopgeon-Lee/SpringJpaJdk17) - Java 17 기반의 JPA 실습  
 🔹 [**msaJava17**](https://github.com/Hyeopgeon-Lee/msaJava17) - Spring 3.x + Java 17 기반 MSA 프로젝트  
 🔹 [**SpringBootBasic**](https://github.com/Hyeopgeon-Lee/SpringBootBasic) - Java 17 + MariaDB 기반 Spring Boot 실습  
 
-### 📊 **Big Data & AI**
-🔹 [**modelForTF**](https://github.com/Hyeopgeon-Lee/modelForTF) - TensorFlow를 활용한 AI 모델 만들기  
+### 📊 **빅데이터 & 인공지능**  
+🔹 [**modelForTF**](https://github.com/Hyeopgeon-Lee/modelForTF) - TensorFlow 기반 AI 모델 개발  
 🔹 [**SpringAIBasic**](https://github.com/Hyeopgeon-Lee/SpringAIBasic) - AI 모델을 활용한 Spring Boot 구현  
-🔹 [**SpringNoSQL**](https://github.com/Hyeopgeon-Lee/SpringNoSQL) - NoSQL을 활용한 실습 프로젝트  
-🔹 [**hadoopWebPRJ**](https://github.com/Hyeopgeon-Lee/hadoopWebPRJ) - Hadoop을 활용한 웹서비스 프로그래밍  
+🔹 [**SpringNoSQL**](https://github.com/Hyeopgeon-Lee/SpringNoSQL) - NoSQL 활용 실습 프로젝트  
+🔹 [**hadoopWebPRJ**](https://github.com/Hyeopgeon-Lee/hadoopWebPRJ) - Hadoop 기반 웹서비스 프로그래밍  
 🔹 [**mrProject**](https://github.com/Hyeopgeon-Lee/mrProject) - 맵리듀스를 활용한 빅데이터 분석 실습  
-🔹 [**R-PRJ**](https://github.com/Hyeopgeon-Lee/R-PRJ) - R을 활용한 빅데이터 분석 실습  
-
-
----
-
-## 🎯 My Goals for 2025
-✅ Develop advanced **AI-powered applications** using **LLM & RAG**  
-✅ Enhance **Cloud-Native applications** with **Wasm & Kubernetes**  
-✅ Contribute more **Open Source** projects  
-✅ Publish research on **AI, Cloud Computing, and Big Data**  
+🔹 [**R-PRJ**](https://github.com/Hyeopgeon-Lee/R-PRJ) - R 언어를 활용한 빅데이터 분석 실습  
 
 ---
 
-## 🌎 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hyeopgeon.lee)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hyeopgeon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeopgeon-lee)
+## 🎯 2025년 목표  
+✅ **LLM & RAG** 기반 고도화된 **AI 응용 서비스 개발**  
+✅ **Wasm & Kubernetes** 기반 **클라우드 네이티브 애플리케이션** 고도화  
+✅ **오픈소스 프로젝트 기여 확대**  
+✅ **AI, 클라우드컴퓨팅, 빅데이터** 관련 연구 논문 게재  
 
 ---
 
-## 📧 Contact
-📩 **Email:** hglee67@kopo.ac.kr  
-📍 **Office:** Room 8302, Korea Polytechnic of Seoul Gangseo Campus  
-📞 **Phone:** +82-2-2186-5981  
+## 🌎 SNS 및 온라인 활동  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hyeopgeon.lee)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hyeopgeon)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeopgeon-lee)  
 
 ---
 
-🚀 **Let's build the future of Cloud, AI, and Big Data together!**  
+## 📧 연락처  
+📩 **이메일:** hglee67@kopo.ac.kr  
+📍 **사무실:** 한국폴리텍대학 서울강서캠퍼스 8302호  
+📞 **전화번호:** +82-2-2186-5981  
+
+---
+
+🚀 **클라우드, 인공지능, 빅데이터의 미래를 함께 만들어가요!**
