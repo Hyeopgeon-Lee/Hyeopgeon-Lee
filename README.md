@@ -3,11 +3,12 @@
 ## 🚀 소개  
 🎓 **한국폴리텍대학 서울강서캠퍼스 교수**  
 💡 **클라우드 네이티브 애플리케이션, MSA, 빅데이터, 인공지능** 교육  
-🔥 **교육, 오픈소스, 클라우드 컴퓨팅** 연구
+🔥 **교육, 오픈소스, 클라우드 컴퓨팅** 연구  
 
-🌐 **[👉 내 기술 블로그 바로가기](https://hyeopgeon-lee.github.io)**
+🌐 **기술 블로그 방문하기:**  
+[![기술 블로그](https://img.shields.io/badge/Visit-Blog-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyeopgeon-lee.github.io)
+
 ---
-
 ## 🛠️ 기술 스택 및 전문 분야
 
 ### 📡 클라우드 & 데브옵스  
