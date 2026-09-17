@@ -20,8 +20,6 @@
 - 💼 **Student Portfolio**  
   https://portfolio.k-bigdata.kr/
 
-- 📝 **GitHub Pages / Tech Notes**  
-  https://prof.k-bigdata.kr/blog/
 
 ---
 
