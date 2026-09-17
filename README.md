@@ -21,7 +21,7 @@
   https://portfolio.k-bigdata.kr/
 
 - 📝 **GitHub Pages / Tech Notes**  
-  https://hyeopgeon-lee.github.io/
+  https://prof.k-bigdata.kr/blog/
 
 ---
 
